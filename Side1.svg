@@ -16,21 +16,21 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Side1.svg">
+   sodipodi:docname="Side_final.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#000000"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.983979"
-     inkscape:cx="353.52484"
-     inkscape:cy="507.58633"
+     inkscape:cx="344.93407"
+     inkscape:cy="497.96045"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -132,6 +132,17 @@
        inkscape:tile-h="45.199274"
        inkscape:tile-x0="450.73817"
        inkscape:tile-y0="438.83392" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="DISC">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.4;stroke-linecap:butt;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="path4625"
+       cx="349.07141"
+       cy="552.00507"
+       r="229.68895" />
   </g>
   <g
      inkscape:groupmode="layer"
